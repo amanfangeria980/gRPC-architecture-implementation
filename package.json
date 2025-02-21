@@ -1,0 +1,13 @@
+{
+  "name": "gRPC-architecture-implementation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "server": "node server/index.js",
+    "client": "node client/index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
